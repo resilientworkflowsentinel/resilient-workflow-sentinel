@@ -1,0 +1,7 @@
+PRO features removed in demo:
+- Persistent storage (DB / JSON)
+- Multi-user login / SSO / auth
+- Live Slack / Jira / Teams connectors
+- Audit logs, encryption & enterprise admin
+- Terraform / infra / CI configs
+Upgrade to Pro for full capabilities.

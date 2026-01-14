@@ -1,0 +1,35 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Model weights (but keep the downloader script)
+models/qwen2.5-7b-instruct/
+
+# Unnecessary root-level batch/scripts and generated files
+requirements.txt.py
+run_all.bat
+run_api.bat
+run_llm.bat
+run_ui.bat
+start_all.bat
+test run.bat
+test_batch_processing.py
+
+# Unused app config and state files
+app/store.json
+app/__init__.py
+app/config.py
+
+# Local LLM service unnecessary files
+app/local_llm_service/__pycache__/
+app/local_llm_service/__init__.py
+
+# Agents module unnecessary files
+app/agents/__pycache__/
+
+# Core unnecessary files
+core/__pycache__/

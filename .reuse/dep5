@@ -1,0 +1,13 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Resilient Workflow Sentinel
+Source: https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel.git
+
+Files: *
+Copyright: 2025 Resilient Workflow Sentinel Contributors
+License: AGPL-3.0-or-later
+
+License: AGPL-3.0-or-later
+ GNU AFFERO GENERAL PUBLIC LICENSE
+ Version 3, 19 November 2007
+ . . .
+ (See LICENSE file in the repository root for full text)

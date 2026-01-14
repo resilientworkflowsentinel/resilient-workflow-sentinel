@@ -1,0 +1,16 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright (c) 2025 Resilient Workflow Sentinel Contributors
+SPDX-License-Identifier: AGPL-3.0-or-later
+
+This repository is licensed under the GNU Affero General Public License v3.0 or later (AGPL-3.0-or-later).
+You MUST include the full license text in this LICENSE file.
+Project Repository:
+https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel.git
+
+# To fetch the official full license text (recommended), run:
+# curl -sS https://www.gnu.org/licenses/agpl-3.0.txt -o LICENSE
+#
+# (Or open https://www.gnu.org/licenses/agpl-3.0.txt in your browser and paste the full text here)
+
