@@ -12,9 +12,6 @@ models/qwen2.5-7b-instruct/
 # Unnecessary root-level batch/scripts and generated files
 requirements.txt.py
 run_all.bat
-run_api.bat
-run_llm.bat
-run_ui.bat
 start_all.bat
 test run.bat
 test_batch_processing.py
