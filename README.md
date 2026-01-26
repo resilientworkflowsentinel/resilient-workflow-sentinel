@@ -6,7 +6,7 @@
 Local demo of LLM-powered orchestrator + multi-agent debate for task assignments.
 
 ## Quick start
-```powershell
+```bash
 # create venv
 python -m venv .venv
 .venv\Scripts\activate
