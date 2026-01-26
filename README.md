@@ -23,9 +23,9 @@ uvicorn app.main:app --host 127.0.0.1 --port 8100 --reload
 # start UI (NiceGUI)
 python ui/nicegui_app.py
 
-# ============================================
-# Windows Batch Script Options (Alternative)
-# ============================================
+-------------------------------------------------------------------------------------------
+
+## Windows Batch Script Options (Alternative)
 
 # One-time setup scripts
 download_model.bat
