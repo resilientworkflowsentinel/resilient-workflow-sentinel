@@ -14,6 +14,9 @@ python -m venv .venv
 # install requirements
 pip install -r requirements.txt
 
+# download local LLM model
+python models/download_model.py
+
 # start LLM service (port 8000)
 uvicorn app.local_llm_service.llm_app:app --host 127.0.0.1 --port 8000 --reload
 
