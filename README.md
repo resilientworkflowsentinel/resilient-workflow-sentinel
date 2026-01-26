@@ -3,7 +3,7 @@
 [![SPDX-License](https://img.shields.io/badge/SPDX-AGPL--3.0--or--later-blue)](LICENSE)
 
 ## Goal
-Local demo of LLM-powered orchestrator + multi-agent debate for task assignments.
+Local demo of LLM-powered orchestrator for intelligent task routing.
 
 ## Quick start
 ```bash
