@@ -38,3 +38,18 @@ install_and_run.bat
 run_llm.bat # Start LLM service
 run_api.bat # Start orchestrator API
 run_ui.bat # Start NiceGUI interface
+
+
+## ⚙️ Verified Hardware Configurations
+
+This project has been tested in the following environments:
+
+**1. Local Development (Primary)**
+* **GPU:** NVIDIA RTX 3080 (10GB VRAM)
+* **CPU:** AMD Ryzen 5
+* **Performance:** Full UI + Backend support.
+
+**2. Cloud Environment**
+* **Platform:** Lightning AI
+* **GPU:** NVIDIA Tesla T4
+* **Performance:** Backend/API verified.
