@@ -25,7 +25,7 @@ uvicorn app.main:app --host 127.0.0.1 --port 8100 --reload
 
 # start UI (NiceGUI)
 python ui/nicegui_app.py
-
+'''
 -------------------------------------------------------------------------------------------
 
 ## Windows Batch Script Options (Alternative)
@@ -38,7 +38,7 @@ install_and_run.bat
 run_llm.bat # Start LLM service
 run_api.bat # Start orchestrator API
 run_ui.bat # Start NiceGUI interface
-'''
+
 
 ## ⚙️ Verified Hardware Configurations
 '''python
