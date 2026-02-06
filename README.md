@@ -29,7 +29,7 @@ python ui/nicegui_app.py
 -------------------------------------------------------------------------------------------
 
 ## Windows Batch Script Options (Alternative)
-
+```bash
 # One-time setup scripts
 download_model.bat
 install_and_run.bat
@@ -41,7 +41,7 @@ run_ui.bat # Start NiceGUI interface
 ```
 
 ## ⚙️ Verified Hardware Configurations
-```bash
+
 This project has been tested in the following environments:
 
 **1. Local Development (Primary)**
