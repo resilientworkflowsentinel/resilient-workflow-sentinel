@@ -41,7 +41,7 @@ run_ui.bat # Start NiceGUI interface
 ```
 
 ## ⚙️ Verified Hardware Configurations
-```python
+```bash
 This project has been tested in the following environments:
 
 **1. Local Development (Primary)**
