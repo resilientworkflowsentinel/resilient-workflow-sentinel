@@ -29,7 +29,7 @@ python ui/nicegui_app.py
 -------------------------------------------------------------------------------------------
 
 ## Windows Batch Script Options (Alternative)
-```bash
+
 # One-time setup scripts
 download_model.bat
 install_and_run.bat
