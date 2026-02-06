@@ -38,10 +38,10 @@ install_and_run.bat
 run_llm.bat # Start LLM service
 run_api.bat # Start orchestrator API
 run_ui.bat # Start NiceGUI interface
-
+'''
 
 ## ⚙️ Verified Hardware Configurations
-
+'''python
 This project has been tested in the following environments:
 
 **1. Local Development (Primary)**
