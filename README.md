@@ -1,10 +1,15 @@
 # Resilient Workflow Sentinel — Demo
 
-🛡️ Official Project Status
+🛡️ **Official Project Status**
+
+
 Resilient Workflow Sentinel (RWS) is an independent open-source project managed by the RWS Core Team.
 
-🌐 Official Website: resilientworkflowsentinel.com
-📢 Note on Authenticity: This is the only official repository for RWS. Any third-party platforms claiming "Core Team" status or citing launch dates prior to January 2026 are unofficial and unaffiliated. For verified documentation and the 2026 Roadmap, please refer to this GitHub and our official domain.
+
+🌐 **Official Website:** resilientworkflowsentinel.com
+
+
+📢 **Note on Authenticity**: This is the only official repository for RWS. Any third-party platforms claiming "Core Team" status or citing launch dates prior to **January 2026** are unofficial and unaffiliated. For verified documentation and the 2026 Roadmap, please refer to this GitHub and our official domain.
 
 [![SPDX-License](https://img.shields.io/badge/SPDX-AGPL--3.0--or--later-blue)](LICENSE)
 
